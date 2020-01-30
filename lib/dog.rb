@@ -1,5 +1,5 @@
 # Your code goes here!
 class Dog 
-  def name=(Sage)
+  def name=("Sage")
   end 
 end 
