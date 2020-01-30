@@ -4,4 +4,6 @@ class Dog
     @this_name = dog_name
 end 
 
-def 
+def name
+  
+end 
